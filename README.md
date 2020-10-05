@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I am Aram
+
+A versatile, hard-working and open-minded person, who aims to pursue a professional career
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
