@@ -2,45 +2,73 @@
 
 ### I am Aram
 
-A versatile, hard-working and open-minded person, who aims to pursue a professional career
+I am currently working at CodeInno Soft.
 
 ---
 
-### Languages:
+### Languages and Tools:
 
-<img  
-  align="left"  
-  alt="HTML5" 
-  width="30px"  
+<img
+  align="left"
+  alt="HTML5"
+  width="30px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
 />
 
-<img  
-  align="left"  
-  alt="CSS3"  
-  width="30px"  
+<img
+  align="left"
+  alt="CSS3"
+  width="30px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
 />
 
-<img  
-  align="left"  
-  alt="JavaScript"  
-  width="30px"  
+<img
+  align="left"
+  alt="JavaScript"
+  width="30px"
   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
 />
 
 <img
-  align="left"  
-  alt="Pug"  
-  width="30px" 
-  src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg"
+  align="left"
+  alt="ReactJS"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+/>
+
+<img
+  align="left"
+  alt="Redux"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"
+/>
+
+<img
+  align="left"
+  alt="NodeJS"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+/>
+
+<img
+  align="left"
+  alt="GraphQL"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"
+/>
+
+<img
+  align="left"
+  alt="Git"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
 />
 
 <img 
-  align="left" 
-  alt="React" 
-  width="30px" 
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+  align="left"
+  alt="Terminal"
+  width="30px"
+  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
 />
 
 <br />
